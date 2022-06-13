@@ -1,0 +1,1 @@
+This is my third project for the Treehouse Techdegree. It is called Phrase Hunters. The goal of the game is to guess a random phrase one word at a time. If you miss 5 guesses before you complete the phrase, the game is over.
